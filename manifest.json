@@ -1,6 +1,6 @@
 {
-  "name": "Gerenciador de Doações",
-  "short_name": "Doações",
+  "name": "Clay no acamp",
+  "short_name": "Clay",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#f0f0f0",
